@@ -8,6 +8,6 @@ sap.ui.define([
 	Opa5.extendConfig({
 		arrangements: new Startup(),
 		viewNamespace: "com.logaligroup.MyFirstPrlject.view.",
-		autoWait: true
+		autoWait: true 
 	});
 });
